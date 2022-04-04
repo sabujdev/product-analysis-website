@@ -35,6 +35,16 @@ const Blogs = () => {
           content that is inside them.
         </p>
       </div>
+      <div className="">
+        <h1>What is the different of inline-blog or inline-block-element</h1>
+        <p>
+          Inline elements allow other inline elements to sit behind. Block
+          elements have top and bottom margin.
+          <br />
+          Inline elements don't start in a new line. Block elements always start
+          in a line.
+        </p>
+      </div>
     </div>
   );
 };

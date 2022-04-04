@@ -1,0 +1,16 @@
+.chart_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sell {
+  width: 45%;
+  margin: 20px;
+}
+.investment {
+  width: 40%;
+}
+h4 {
+  text-align: center;
+  font-size: 30px;
+}
