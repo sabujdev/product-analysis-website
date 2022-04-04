@@ -9,9 +9,11 @@ const Home = () => {
         <div className="first_half">
           <h1>Your Next Camera</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi error
-            cum repellat impedit ipsa exercitationem. Quaerat totam
-            exercitationem facere dolor.
+            FUJIFILM's GFX mirrorless cameras are more than just full frame.
+            These cameras combine more than 80 years of experience, knowledge,
+            and research into a series of mirrorless medium-format cameras that
+            redefine the boundaries and limitations of how photographers and
+            filmmakers express themselves creatively.
           </p>
         </div>
         <div className="half">
