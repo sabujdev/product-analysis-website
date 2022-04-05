@@ -1,18 +1,32 @@
-##Customer review Website
+#Customer review Website
 
 ## [Private Repo Link](https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto)[https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto]
 
 Click here to visited my Live website: [https://enchanting-tapioca-829c52.netlify.app/]
 
+## Live site
+
+https://enchanting-tapioca-829c52.netlify.app/
+
 ## Project Description
 
----
+**Front-End**
+->React.js
+->Context API
+->CSS-Framework
+->Row CSS.
 
-Provide instructions on how to create this project.
+## Features Overview:
 
-> Maybe you want to write a quote in this part.
-> Should it encompass several lines?
-> This is how you do it.
+- User friendly UI.
+- Students can enroll in free & paid courses.
+- Nice & Clean user dashboard.
+- Easy payment system with stripe.
+- Users can easily register as Instructor and setup their payout account through Stripe Express.
+- Nice Instructor Dashboard.
+- Instructors can create courses & update them. They can later add lessons in the course. They can publish or unpublish a course.
+- Fully responsive layout for all type of devices.
+- 24/7 Live chat feature.
 
 # Getting Started with Create React App
 
