@@ -27,7 +27,7 @@ section {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 50px;
-  margin: 0 130px;
+  margin: 0 120px;
   margin-bottom: 30px;
 }
 .see_allreviews {
@@ -36,15 +36,14 @@ section {
 }
 .see_allreviews button {
   border: none;
-  /* background-color: rgb(204, 139, 60); */
   background-color: #e9b91d;
   border-radius: 12px;
 }
 .btn {
-  color: #115fe6;
+  color: black;
   font-size: 20px;
   cursor: pointer;
 }
 .btn:hover {
-  color: green;
+  color: #115fe6;
 }

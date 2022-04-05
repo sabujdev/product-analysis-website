@@ -1,8 +1,6 @@
 .chart_container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-}
-h4 {
-  text-align: center;
-  font-size: 30px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 50px 20px;
 }
