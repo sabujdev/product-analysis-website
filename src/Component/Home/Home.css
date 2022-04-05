@@ -36,14 +36,14 @@ section {
 }
 .see_allreviews button {
   border: none;
-  background-color: #e9b91d;
+  background-color: #b6b09c;
   border-radius: 12px;
 }
 .btn {
-  color: black;
+  color: #1f3b6b;
   font-size: 20px;
   cursor: pointer;
 }
 .btn:hover {
-  color: #115fe6;
+  color: rgb(194, 121, 121);
 }

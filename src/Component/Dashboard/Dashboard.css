@@ -1,6 +1,9 @@
 .chart_container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 10px;
-  margin: 50px 20px;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 80px;
+  margin: 35px 130px;
+}
+.chart h1 {
+  color: purple;
 }
