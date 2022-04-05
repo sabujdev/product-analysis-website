@@ -1,6 +1,18 @@
+##Customer review Website
+
 ## [Private Repo Link](https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto)[https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto]
 
-Click here to vidited my Live website: [https://enchanting-tapioca-829c52.netlify.app/]
+Click here to visited my Live website: [https://enchanting-tapioca-829c52.netlify.app/]
+
+## Project Description
+
+---
+
+Provide instructions on how to create this project.
+
+> Maybe you want to write a quote in this part.
+> Should it encompass several lines?
+> This is how you do it.
 
 # Getting Started with Create React App
 
