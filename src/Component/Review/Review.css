@@ -15,8 +15,15 @@
   margin-right: auto;
 }
 .name_rating h5 {
-  font-size: 16px;
+  font-size: 18px;
 }
 .icon {
   color: gold;
+}
+.rating {
+  text-align: center;
+  background-color: goldenrod;
+  color: white;
+  border-radius: 75px;
+  padding: 5px 20px;
 }

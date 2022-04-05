@@ -13,7 +13,7 @@ const Review = ({ review }) => {
         </div>
         <div className="name_rating">
           <h5>{name}</h5>
-          <p>
+          <p className="rating">
             Rating {rating}{" "}
             <span>
               <FontAwesomeIcon className="icon" icon={faStar}></FontAwesomeIcon>
