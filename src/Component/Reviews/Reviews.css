@@ -1,0 +1,7 @@
+.allReviews {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  margin: 50px 130px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,22 @@
+.review_person {
+  background-color: beige;
+  border: 2px solid rgb(225, 185, 185);
+  border-radius: 20px;
+  padding: 10px;
+}
+.single_container {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+}
+.review_img img {
+  border-radius: 50%;
+  width: 50%;
+  margin-right: auto;
+}
+.name_rating h5 {
+  font-size: large;
+}
+.icon {
+  color: gold;
+}
