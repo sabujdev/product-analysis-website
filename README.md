@@ -1,4 +1,4 @@
-## [Private Repo Link](https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto)
+## [Private Repo Link](https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto)[https://github.com/programming-hero-web-course-4/product-analysis-website-SabujMahonto]
 
 Click here to vidited my Live website: [https://enchanting-tapioca-829c52.netlify.app/]
 
