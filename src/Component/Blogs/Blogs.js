@@ -1,9 +1,10 @@
 import React from "react";
+import "./Blogs.css";
 
 const Blogs = () => {
   return (
-    <div>
-      <div className="div">
+    <div className="question">
+      <div className="qus">
         <h1>What is Context API?</h1>
         <p>
           React we usually send data from one component to another. In that case
@@ -19,7 +20,7 @@ const Blogs = () => {
           pass all the components as props and take data.
         </p>
       </div>
-      <div className="div">
+      <div className="qus">
         <h1>what is semantic tags?</h1>
         <p>
           HTML5 semantic elements support all modern browsers. Generally
@@ -35,7 +36,8 @@ const Blogs = () => {
           content that is inside them.
         </p>
       </div>
-      <div className="">
+
+      <div className="qus">
         <h1>What is the different of inline-blog or inline-block-element</h1>
         <p>
           Inline elements allow other inline elements to sit behind. Block

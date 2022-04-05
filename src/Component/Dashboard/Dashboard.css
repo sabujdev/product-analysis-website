@@ -1,14 +1,6 @@
 .chart_container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.sell {
-  width: 45%;
-  margin: 20px;
-}
-.investment {
-  width: 40%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
 }
 h4 {
   text-align: center;
